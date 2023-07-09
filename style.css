@@ -1,0 +1,45 @@
+*{
+  color: black;
+  font-family: sans-serif
+}
+
+.title{
+  text-align: center;
+  font-family: "Comic Sans MS", sans-serif;
+  font-size: 48px;
+  height:70px;
+}
+
+.title-small{
+  font-size:30px;
+  height: 25px;
+}
+
+.background{
+  background-color: #f0e8c7;
+}
+
+.center{
+  text-align:center;
+}
+
+a{
+  text-decoration: none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  }
+
+.center-text{
+ text-align: center;
+}
+
+ul, ol{
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
